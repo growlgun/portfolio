@@ -7,6 +7,8 @@
 
 
    А это я
+
+   
    ![Мое фото][def]
 
 [def]: https://hhcdn.ru/photo/715066318.jpeg?t=1676497130&h=J917wmRDnkn9wpuN_M4D2A
